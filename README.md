@@ -1,2 +1,2 @@
 # TeamStatus
-A simple App for monitoring where your coworkors are at the moment.
+A simple App and lightweight Android App for monitoring where your coworkors are at the moment.
