@@ -1,6 +1,6 @@
 # TeamStatus
 
-![logo](https://user-images.githubusercontent.com/86848811/193427123-7d830fb0-8b84-49f2-9439-e1560d2c8fde.png)
+![banner](https://user-images.githubusercontent.com/86848811/193427448-98769ff9-e614-4c16-aa87-650ec4309737.png)
 
 
 A simple and lightweight Android App for monitoring where your coworkors are at the moment.
@@ -17,4 +17,5 @@ his Status.
 Now Co-Workers know who is Home, at a Job or in the 
 Building. If there is a Emergency, just grab the 
 Tablet and you have a List who is in the Building.
+
 
