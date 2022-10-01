@@ -2,6 +2,7 @@
 
 ![banner](https://user-images.githubusercontent.com/86848811/193427448-98769ff9-e614-4c16-aa87-650ec4309737.png)
 
+APP IS COMING SOON
 
 A simple and lightweight Android App for monitoring where your coworkors are at the moment.
 
