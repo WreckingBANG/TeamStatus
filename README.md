@@ -1,4 +1,8 @@
 # TeamStatus
+
+![logo](https://user-images.githubusercontent.com/86848811/193427123-7d830fb0-8b84-49f2-9439-e1560d2c8fde.png)
+
+
 A simple and lightweight Android App for monitoring where your coworkors are at the moment.
 
 THE APP IS A BETA
