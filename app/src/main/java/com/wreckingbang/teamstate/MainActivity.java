@@ -31,12 +31,8 @@ public class MainActivity extends AppCompatActivity {
     ArrayAdapter<String> arrayAdapter;
     GridView gridView;
     EditText input;
-
-
     EditText editText;
-
-
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
